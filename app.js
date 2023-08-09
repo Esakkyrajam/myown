@@ -1,22 +1,27 @@
-  //  let fruits=[]
-    //fruits.push('apple','banana','orange')
- //   delete fruits[0]
- //   fruits.push('grape')
-  //  fruits[1]='pear'
-   // console.log(fruits)
+  
+  
+  //>>>>>           Assignment 1    <<<<<<<
+  
+   let fruits=[]
+    fruits.push('apple','banana','orange')
+   delete fruits[0]
+   fruits.push('grape')
+   fruits[1]='pear'
+   console.log(fruits)
 
+//>>>>>           Assignment 2    <<<<<<<
 
-//    let person={
-//     name: "John",
-//     age:30,
-//     city:"New York"
-//     }
-//     delete person.age
-//     person.job="engineer"
-//     person.city="San Francisco"
-//     console.log(person)
+   let person={
+    name: "John",
+    age:30,
+    city:"New York"
+    }
+    delete person.age
+    person.job="engineer"
+    person.city="San Francisco"
+    console.log(person)
 
-
+//>>>>>           Assignment 3    <<<<<<<
 let cars=[
     {
         make:"Toyoto",
